@@ -1,0 +1,9 @@
+table tr td .remove{
+  width: 30px;
+  text-align: center;
+  background-color: #D62E3D;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+
+}
